@@ -1,10 +1,4 @@
 # RDP Windows Gratis 6 Jam
-
-DONASI : [ PULSA TELKOM : 0821-3835-6143 ]
-         [ DANA :  0821-3835-6143 ]
-         G MAKSA
-
-
 Buat RDP Windows Ram 7GB 2 Core Cpu Dengan Github:
 
 + Tekan Tombol Fork untuk membuat RDP (Bagi Pengguna Android/HP Disilahkan Pake Mode Desktop).
